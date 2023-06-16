@@ -1,0 +1,18 @@
+﻿date_received,ingredient_name,supplier,number_of_cases,units_per_case,sample_case_count1,sample_case_count2,sample_case_count3,sample_case_rejections1,sample_case_rejections2,sample_case_rejections3
+10-Jun-21,tomato_cherry,ABC Vegetables,10,100,95,100,110,5,3,5
+10-Jun-21,tomato_cherry,Tomato Land,20,500,440,480,500,10,0,25
+10-Jun-21,tomato_vine,Tomato Land,25,100,100,100,100,0,0,0
+10-Jun-21,tomato_vine,ABC Vegetables,10,100,100,98,101,0,0,0
+10-Jun-21,cucumber_english,ABC Vegetables,14,50,51,50,51,10,0,0
+10-Jun-21,cucumber_pickle,Dill Farms,15,50,50,50,50,0,0,0
+11-Jun-21,bananas_organic,Banana Farms Inc,24,40,40,40,40,0,0,0
+11-Jun-21,bananas_organic,ABC Vegetables,26,30,30,28,29,0,3,0
+11-Jun-21,bananas_organic,Banana Farms Inc,20,30,30,30,30,0,0,0
+11-Jun-21,apples_gala,Orchard Inc,20,90,90,94,90,1,4,5
+11-Jun-21,apples_gala,Orchard Inc,5,90,90,90,90,0,0,3
+11-Jun-21,apples_gs,Orchard Inc,1,80,80,82,80,2,0,5
+13-Jun-21,apples_gala,Apple Farm,20,90,90,90,90,0,0,0
+13-Jun-21,oranges_california,Cali Fruits,20,90,90,90,90,4,0,0
+13-Jun-21,oranges_california,ABC Vegetables,40,100,100,102,101,0,0,3
+13-Jun-21,grapes_red,Cali Fruits,20,35,30,35,30,4,0,0
+13-Jun-21,grapes_green,Cali Fruits,10,35,35,35,30,5,5,3
